@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431235501178",
+    "project_id": "gfgname",
+    "storage_bucket": "gfgname.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431235501178:android:93614ddfb89a4bd4debfc3",
+        "android_client_info": {
+          "package_name": "com.example.stalker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431235501178-8mq2o139lna6d1vfqde77eee8ap8pb4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT7YF8YAi-6ECVcPIwYe-UmKjkAT83wBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431235501178-8mq2o139lna6d1vfqde77eee8ap8pb4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
